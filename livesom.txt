@@ -1,1 +1,209 @@
+{
+"sites": [],
+"parses": [ ],
+  "lives":[
+     {"name":"中央台",
+      "group":"直播",
+      "channels":[{"name":"cctv-1综合",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8"]},
+		  {"name":"cctv-2财经",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8"]},
+		  {"name":"cctv-3综艺",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8"]},
+		  {"name":"cctv-4国际",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8"]},
+		  {"name":"cctv-5体育",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"]},
+		  {"name":"cctv-6电影",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8"]},
+		  {"name":"cctv-12社会",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8"]},
+		  {"name":"cctv-15音乐",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8"]},
+		  {"name":"浙江卫视",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8"]},
+		  {"name":"湖北卫视",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8"]},
+		  {"name":"江苏卫视",
+                   "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"]}
+                 ]
+      }
 
+    ],
+ 
+  "ijk":[
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": []
+
+}
