@@ -2,7 +2,7 @@
 "sites": [],
 "parses": [ ],
   "lives":[
-     {"name":"中央台",
+     {"name":"直播",
       "group":"直播",
       "channels":[{"name":"cctv-1综合",
                    "urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8"]},
