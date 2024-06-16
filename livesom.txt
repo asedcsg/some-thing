@@ -1,6 +1,10 @@
 {
-"sites": [],
+"sites": [{"name":"ii","key":"ii",
+ "type":1,
+  "api":"https://www.88mv.org/search/search.php?q=wd-"
+  }],
 "parses": [ ],
+
   "lives":[
      {"name":"直播",
       "group":"直播",
