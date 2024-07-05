@@ -2,7 +2,8 @@
 "sites": [{"name":"ii","key":"ii",
  "type":1,
   "api":"https://www.88mv.org/search/search.php?q=wd-",
-"ext":"https://www.88mv.org$<li class=\"p1 m1\">#</li>#href#=\"#2#\"#<p class=\"name\">#<p class=\"name\">#2#</p>#data-original#=#2# $<title>#<title>#2#-#<script>#SiteId='#2#';</script>#div class=\"ct-l\">#<img src#src=#2#alt=#<div class=\"playfrom tab8 clearfix\">#</div>#<li id#</i>#2#</li>#<div id=\"stab81\" class=\"playlist clearfix\"  >#<div class=\"index-area clearfix\">#<div id=\"vlink_#</div>#<a href#target=\"_blank\">#2#</a>#href=\"#2#\""}
+  "ext":"https://www.88mv.org$<li class=\"p1 m1\">#</li>#href#=\"#2#\"#<p class=\"name\">#<p class=\"name\">#2#</p>#data-original#=#2# $<title>#<title>#2#-#<script>#SiteId='#2#';</script>#div class=\"ct-l\">#<img src#src=#2#alt=#<div class=\"playfrom tab8 clearfix\">#</div>#<li id#</i>#2#</li>#<div id=\"stab81\" class=\"playlist clearfix\"  >#<div class=\"index-area clearfix\">#<div id=\"vlink_#</div>#<a href#target=\"_blank\">#2#</a>#href=\"#2#\""
+  }
 ],
 "parses": [ ],
 
