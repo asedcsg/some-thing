@@ -3,6 +3,11 @@
  "type":1,
   "api":"https://www.88mv.org/search/search.php",
   "ext":"https://www.88mv.org$<li class=\"p1 m1\">#</li>#href#=\"#2#\"#<p class=\"name\">#<p class=\"name\">#2#</p>#data-original#=#2# $<title>#<title>#2#-#<script>#SiteId='#2#';</script>#div class=\"ct-l\">#<img src#src=#2#alt=#<div class=\"playfrom tab8 clearfix\">#</div>#<li id#</i>#2#</li>#<div id=\"stab81\" class=\"playlist clearfix\"  >#<div class=\"index-area clearfix\">#<div id=\"vlink_#</div>#<a href#target=\"_blank\">#2#</a>#href=\"#2#\""
+  },
+{"name":"teafox","key":"teafox",
+ "type":1,
+  "api":"https://www.xcupfox.com/vodsearch/-------------.html",
+   "ext":"https://www.xcupfox.com$<div class=\"stui-vodlist__box\">#</div>#<a class=\"stui-vodlist__thumb lazyload\"#href=\"#2#\"#<h4 class=\"title text-overflow\">#\">#3#</a>#data-original#data-original=#2#>$<title>#<title>#2#-茶杯狐#立即播放#href=\"/play/#2#-#<a class=\"pic\" href=#<img class=\"lazyload\"#data-original=#2# #<ul class=\"nav nav-tabs  dpplay pull-right\">#</ul>#<li>#data-toggle=\"tab\">#2#</a>#<div class=\"tab-content stui-pannel_bd col-pd clearfix\">#<script type=\"text/javascript\">#<ul class=\"stui-content__playlist clearfix \">#</ul>#<li>#\">#2#</a>#href=\"#2#\">"
   }
 ],
 "parses": [ ],
