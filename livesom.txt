@@ -1,4 +1,4 @@
-{
+
 "sites": [
 {"name":"ii","key":"ii",
  "type":1,
