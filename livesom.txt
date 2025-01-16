@@ -34,7 +34,7 @@
 “http://mg.20191209.xyz:58888/gaoma/cctv3.m3u8”,
 “http://www.clmy.cc:35455/gaoma/cctv3.m3u8”,
 “http://tv.kmhlzxs.top:35455/gaoma/cctv3.m3u8”,
-“http://60.12.183.46:9901/tsfile/live/0003_1.m3u8”]},
+“http://60.12.183.46:9901/tsfile/live/0003\_1.m3u8”]},
 		  {"name":"cctv-4国际",
                    "urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8",
 “http://tv.kmhlzxs.top:35455/gaoma/cctv4k.m3u8”,
