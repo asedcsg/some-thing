@@ -45,7 +45,7 @@
 “http://119.8.31.109:35455/gaoma/cctv5.m3u8”,
 “http://wab201.win:35455/gaoma/cctv5.m3u8”,
 “http://www.clmy.cc:35455/gaoma/cctv5.m3u8”,
-“http://49.74.145.161:35455/gaoma/cctv5.m3u8]},
+“http://49.74.145.161:35455/gaoma/cctv5.m3u8"]},
 		  {"name":"cctv-6电影",
                    "urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
 “http://www.terrykang.xyz:35455/gaoma/cctv6.m3u8”,
