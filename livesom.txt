@@ -23,7 +23,7 @@
 "http://119.8.31.109:35455/gaoma/cctv1.m3u8"]},
 		  {"name":"cctv-2财经",
                    "urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8",
-"http://tv.kmhlzxs.top:35455/gaoma/cctv2.m3u8",
+"http://119.62.36.56:9901/tsfile/live/0002_1.m3u8",
 "http://117.144.58.42:35455/gaoma/cctv2.m3u8",
 "http://www.clmy.cc:35455/gaoma/cctv2.m3u8",
 "http://www.douzhicloud.site:35455/gaoma/cctv2.m3u8",
