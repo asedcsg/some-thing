@@ -17,6 +17,7 @@
       "channels":[{"name":"cctv-1综合",
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3",
 "http://222.174.239.62:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+"http://222.174.239.62:352/tsfile/live/0001_1.m3u8",
 "http://php.jdshipin.com/TVOD/iptv.php?id=rthk33"]},
 		  {"name":"cctv-2财经",
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3",
