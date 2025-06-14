@@ -1,553 +1,271 @@
 {
-
 "sites": [
-
 {"name":"ii","key":"ii",
-
  "type":1,
-
 "teleplay":"https://www.88mv.org/vod-type-id-2-pg-1.html",
-
 "movies":"https://www.88mv.org/vod-type-id-1-pg-1.html",
-
   "api":"https://www.88mv.org/search/search.php",
-
   "ext":"https://www.88mv.org$<li class=\"p1 m1\">#</li>#href#=\"#2#\"#<p class=\"name\">#<p class=\"name\">#2#</p>#data-original#=#2# a$<title>#<title>#2#-#<script>#SiteId='#2#';</script>#div class=\"ct-l\">#<img src#src=#2#alt=#<div class=\"playfrom tab8 clearfix\">#</div>#<li id#</i>#2#</li>#<div id=\"stab81\" class=\"playlist clearfix\"  >#<div class=\"index-area clearfix\">#<div id=\"vlink_#</div>#<a href#target=\"_blank\">#2#</a>#href=\"#2#\""
-
   }
 
-
-
 ],
-
 "parses": [ ],
 
-
-
   "lives":[
-
      {"name":"直播",
-
       "group":"直播",
-
       "channels":[{"name":"cctv-1综合",
-
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3",
-
 "http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0",
-
 "http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",
-
-"http://php.jdshipin.com/TVOD/iptv.php?id=rthk33",
-
-"https://smart.pendy.dpdns.org/Smart.php?id=cctv1",
-
-"http://hazhanglei.xyz:35455/bptv/10000100000000050000000003864351.m3u8"]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1",
+"http://www.dsk.cc/php/bfgd.php?id=cctv1&m.m3u8"]},
 		  {"name":"cctv-2财经",
-
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3",
-
 "http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0",
-
 "http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8",
-
-"http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588",
-
-"http://goo.bkpcp.top/mg/CCTV2",
-
-"https://smart.pendy.dpdns.org/Smart.php?id=cctv2"]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2",
+"http://www.dsk.cc/php/bfgd.php?id=cctv2&m.m3u8"]},
 		  {"name":"cctv-3综艺",
-
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3",
-
 "http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0",
-
 "http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8",
-
-"http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021",
-
-"https://smart.pendy.dpdns.org/Smart.php?id=cctv3"]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3",
+"http://www.dsk.cc/php/bfgd.php?id=cctv3&m.m3u8"]},
 		  {"name":"cctv-4国际",
-
                    "urls":["http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0",
-
 "http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8",
-
-"https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
-
-"http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428",
-
-"https://smart.pendy.dpdns.org/Smart.php?id=cctv4"]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4",
+"http://www.dsk.cc/php/bfgd.php?id=cctv4&m.m3u8"]},
 		  {"name":"cctv-5体育",
-
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3",
-
 "http://39.164.180.36:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0",
-
 "http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8",
-
-"http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111",
-
-"http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019",
-
-"https://smart.pendy.dpdns.org/Smart.php?id=cctv5"]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5",
+"http://www.dsk.cc/php/bfgd.php?id=cctv5&m.m3u8"]},
 		  {"name":"CCTV5+体育",
-
                    "urls":["http://39.164.180.36:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0",
-
-"http://ms.fxim.net:808/hls/13/index.m3u8",
-
-"http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603",
-
-"https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus"]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5p"]},
 		  {"name":"cctv-6电影",
-
                    "urls":["http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8",
-
-"http://39.164.180.36:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0"]},
-
+"http://39.164.180.36:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0",
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6"]},
 		  {"name":"cctv-8电视剧",
-
                    "urls":["http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8",
-
-"http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008",
-
-"http://goo.bkpcp.top/mg/cctv8"]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8",
+"http://8.138.7.223/tv/hot.php?id=8"]},
 		  {"name":"cctv-12社会",
-
                    "urls":["http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0",
-
 "http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8",
-
-"https://php.ntnas.top/api/cqyx.php?id=cctv12HD",]},
-
+"http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12"]},
 		  {"name":"cctv-15音乐",
-
                    "urls":["http://112.6.165.112:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
-
-"https://php.ntnas.top/api/cqyx.php?id=cctv15HD",
-
-"http://107.174.52.32/itv.php?id=CCTV15"]},
-
+"http://www.dsk.cc/php/bfgd.php?id=cctv15&m.m3u8"]},
 		  {"name":"浙江卫视",
-
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000009806/index.m3u8?channel-id=bestzb&Contentid=1000000001000009806&livemode=1&stbId=3",
-
 "http://39.164.180.36:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0",
-
 "http://iptv.huuc.edu.cn/hls/zjhd.m3u8",
-
 "https://php.ntnas.top/api/cqyx.php?id=zhejiangHD",
-
 "http://107.174.52.32/itv.php?id=%e6%b5%99%e6%b1%9f%e5%8d%ab%e8%a7%86"]},
-
 		  {"name":"湖南卫视",
-
                    "urls":["http://39.164.180.36:19901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0",
-
 "https://php.ntnas.top/api/cqyx.php?id=hunanHD",
-
 "http://107.174.52.32/itv.php?id=%e6%b9%96%e5%8d%97%e5%8d%ab%e8%a7%86"]},
-
 		  {"name":"江苏卫视",
-
                    "urls":["http://39.164.180.36:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0",
-
 "https://php.ntnas.top/api/cqyx.php?id=jiangsuHD",
-
 "http://107.174.52.32/itv.php?id=%e6%b1%9f%e8%8b%8f%e5%8d%ab%e8%a7%86"]},
-
 		  {"name":"安徽卫视",
-
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3",
-
 "http://iptv.huuc.edu.cn/hls/ahhd.m3u8",
-
 "https://php.ntnas.top/api/cqyx.php?id=anhuiSD",
-
 "http://107.174.52.32/itv.php?id=%e5%ae%89%e5%be%bd%e5%8d%ab%e8%a7%86"]},
-
 		  {"name":"辽宁卫视",
-
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000001945/index.m3u8?channel-id=bestzb&Contentid=1000000001000001945&livemode=1&stbId=3",
-
 "http://iptv.huuc.edu.cn/hls/lnhd.m3u8",
-
 "https://php.ntnas.top/api/cqyx.php?id=liaoningHD",
-
 "http://107.174.52.32/itv.php?id=%e8%be%bd%e5%ae%81%e5%8d%ab%e8%a7%86"]},
-
 		  {"name":"翡翠台",
-
                    "urls":["http://php.jdshipin.com:8880/smt.php?id=jade_twn",
-
-"https://cdn3.163189.xyz/live/fct/stream.m3u8"]}
-
+"https://live.tvfix.org/live/jade/3/v700000/index.m3u8"]}
                  ]
-
       }
 
-
-
     ],
-
  
-
   "ijk":[
-
     {
-
       "group": "软解码",
-
       "options": [
-
         {
-
           "category": 4,
-
           "name": "opensles",
-
           "value": "0"
-
         },
-
         {
-
           "category": 4,
-
           "name": "overlay-format",
-
           "value": "842225234"
-
         },
-
         {
-
           "category": 4,
-
           "name": "framedrop",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "soundtouch",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "start-on-prepared",
-
           "value": "1"
-
         },
-
         {
-
           "category": 1,
-
           "name": "http-detect-range-support",
-
           "value": "0"
-
         },
-
         {
-
           "category": 1,
-
           "name": "fflags",
-
           "value": "fastseek"
-
         },
-
         {
-
           "category": 2,
-
           "name": "skip_loop_filter",
-
           "value": "48"
-
         },
-
         {
-
           "category": 4,
-
           "name": "reconnect",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "max-buffer-size",
-
           "value": "5242880"
-
         },
-
         {
-
           "category": 4,
-
           "name": "enable-accurate-seek",
-
           "value": "0"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec",
-
           "value": "0"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec-auto-rotate",
-
           "value": "0"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec-handle-resolution-change",
-
           "value": "0"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec-hevc",
-
           "value": "0"
-
         },
-
         {
-
           "category": 1,
-
           "name": "dns_cache_timeout",
-
           "value": "600000000"
-
         }
-
       ]
-
-
 
     },
-
     {
-
       "group": "硬解码",
-
       "options": [
-
         {
-
           "category": 4,
-
           "name": "opensles",
-
           "value": "0"
-
         },
-
         {
-
           "category": 4,
-
           "name": "overlay-format",
-
           "value": "842225234"
-
         },
-
         {
-
           "category": 4,
-
           "name": "framedrop",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "soundtouch",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "start-on-prepared",
-
           "value": "1"
-
         },
-
         {
-
           "category": 1,
-
           "name": "http-detect-range-support",
-
           "value": "0"
-
         },
-
         {
-
           "category": 1,
-
           "name": "fflags",
-
           "value": "fastseek"
-
         },
-
         {
-
           "category": 2,
-
           "name": "skip_loop_filter",
-
           "value": "48"
-
         },
-
         {
-
           "category": 4,
-
           "name": "reconnect",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "max-buffer-size",
-
           "value": "5242880"
-
         },
-
         {
-
           "category": 4,
-
           "name": "enable-accurate-seek",
-
           "value": "0"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec-auto-rotate",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec-handle-resolution-change",
-
           "value": "1"
-
         },
-
         {
-
           "category": 4,
-
           "name": "mediacodec-hevc",
-
           "value": "1"
-
         },
-
         {
-
           "category": 1,
-
           "name": "dns_cache_timeout",
-
           "value": "600000000"
-
         }
-
       ]
-
     }
-
   ],
-
   "ads": []
-
-
 
 }
