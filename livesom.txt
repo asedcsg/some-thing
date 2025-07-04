@@ -25,7 +25,7 @@
 "http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0",
 "http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8",
 "http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2",
-"http://xc.mfykeke.top:35455/mgtv/631780532.m3u8]},
+"http://xc.mfykeke.top:35455/mgtv/631780532.m3u8"]},
 		  {"name":"cctv-3综艺",
                    "urls":["http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3",
 "http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0",
