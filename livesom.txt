@@ -1,4 +1,4 @@
-http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1,http://8.134.110.147:5300/?id=cctv1
 CCTV-2,http://8.134.110.147:5300/?id=cctv2
 CCTV-3,http://8.134.110.147:5300/?id=cctv3
